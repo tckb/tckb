@@ -1,1 +1,1 @@
-[Blog](https://tckb.tgrthi.me/?ref=github]
+[Blog](https://tckb.tgrthi.me)
