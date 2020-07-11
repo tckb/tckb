@@ -11,6 +11,5 @@
 - [Plausible Analytics](https://github.com/plausible/analytics/commits?author=tckb)
 
 
-// NB: I don't actively work GH, I use [Gitlab](https://gitlab.com/tckb1) as primary repository
-
-Check out my opensourced repos 👇
+// _NB: I don't actively work on GH, I use [Gitlab](https://gitlab.com/tckb1) as primary repository_
+Check out my contributions 👇👇
