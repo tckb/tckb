@@ -10,7 +10,7 @@
 
 - [Plausible Analytics](https://github.com/plausible/analytics/commits?author=tckb)
 - [Marlin Firmware For Flashforge 3D printer](https://github.com/tckb/FlashForge_Marlin)
-- [Secret Terraform Provider](https://lmgtfy.app/?q=this+repository+is+still+in+work+in+progress)
+- [Terraform provider for SAP Commerce Cloud](https://github.com/foryouandyourcustomers/terraform-provider-sapcc)
 
 
 // _NB: I don't actively work on GH, I use [Gitlab](https://gitlab.com/tckb1) as primary repository, check out my contributions 👇👇_
