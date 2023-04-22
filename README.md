@@ -1,6 +1,6 @@
 👋 Find me on following
 
-- [Tech Blog](https://tckb.tgrthi.me?ref=ghprofile)
+- [Tech Blog](https://blog.tgrthi.me?ref=ghprofile)
 - [Twitter](https://twitter.com/this_is_tckb)
 - [Dev.to](https://dev.to/this_is_tckb)
 - [Gitlab](https://gitlab.com/tckb1)
@@ -12,5 +12,3 @@
 - [Marlin Firmware For Flashforge 3D printer](https://github.com/tckb/FlashForge_Marlin)
 - [Terraform provider for SAP Commerce Cloud](https://github.com/foryouandyourcustomers/terraform-provider-sapcc)
 
-
-// _NB: I don't actively work on GH, I use [Gitlab](https://gitlab.com/tckb1) as primary repository, check out my contributions 👇👇_
